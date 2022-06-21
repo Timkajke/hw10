@@ -1,0 +1,28 @@
+body {
+    background-color: gainsboro;
+}
+
+h1 {
+    text-align: center;
+}
+
+.food {
+    padding: 10px;
+    min-height: auto;
+    min-width: auto;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+    border: solid gray 2px;
+    border-radius: 25px;
+}
+
+p {
+    font-weight: bold;
+    text-align: center;
+}
+
+.container {
+    display:flex;
+    flex-wrap: wrap;
+}

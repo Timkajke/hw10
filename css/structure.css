@@ -1,0 +1,33 @@
+header {
+    height: 30px;
+    padding: 10px;
+    /* padding-left: 30px; */
+    background-color: violet;
+    margin-bottom: 10px;
+}
+
+menu {
+    background-color: blueviolet;
+    height: 40px;
+    margin-bottom: 10px;
+}
+
+.c1 {
+    display:flex;
+    flex-direction:row;
+}
+
+main {
+    background-color: aqua;
+}
+
+aside {
+    background-color: aqua;
+}
+
+footer{
+    margin-top: 15px;
+    clear: both;
+    background-color: blueviolet;
+    height: 40px;
+}

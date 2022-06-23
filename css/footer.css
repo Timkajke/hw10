@@ -1,0 +1,68 @@
+footer {
+    padding: 5px;
+    background-color: rgb(54, 138, 138);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.c1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 25px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul {
+    list-style: none;
+}
+
+p {
+    color: white;
+    text-align: center;
+}
+
+.c8 {
+    display: flex;
+    flex-direction: row;
+}
+
+a.c5 {
+    background: url("..//images/fb_gray.png") no-repeat 50% 50%;
+    display: block;
+    width: 100px;
+    height: 100px;
+}
+
+a.c5:hover {
+    background: url("..//images/fb.png") no-repeat 50% 50%;
+}
+
+a.c6 {
+    background: url("..//images/insta_gray.png") no-repeat 50% 50%;
+    display: block;
+    width: 100px;
+    height: 100px;
+}
+
+a.c6:hover {
+    background: url("..//images/insta.png") no-repeat 50% 50%;
+}
+
+a.c7 {
+    background: url("..//images/youtube_gray.png") no-repeat 50% 50%;
+    display: block;
+    width: 100px;
+    height: 100px;
+}
+
+a.c7:hover {
+    background: url("..//images/youtube.png") no-repeat 50% 50%;
+}

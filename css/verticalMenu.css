@@ -1,31 +1,25 @@
-.menuItem {
-    background-color: gray;
-    height: 60px;
-    width: 150px;
-    writing-mode: horizontal-tb;
-}
-
-li {
-    background-color: gray;
-    width: 200px;
-    text-decoration: none;
+ul {
+    list-style: none;
 }
 
 a {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
     text-decoration: none;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
 }
 
 a:hover {
-    color: blueviolet;
     background-color: rgb(75, 70, 58);
 }
 
-header nav ul li {
-    display:  inline;
-}
+nav {
 
-nav a {
-    padding: 20px;
-    font-size: 15px;
-    font-weight: bold;
+    background-color: gray;
+    width: 240px;
+    height: 351px;
 }

@@ -4,7 +4,7 @@ footer {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-.c1 {
+.main-container {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -29,40 +29,40 @@ p {
     text-align: center;
 }
 
-.c8 {
+.container-for-ref {
     display: flex;
     flex-direction: row;
 }
 
-a.c5 {
+a.facebook-ref {
     background: url("..//images/fb_gray.png") no-repeat 50% 50%;
     display: block;
     width: 100px;
     height: 100px;
 }
 
-a.c5:hover {
+a.facebook-ref:hover {
     background: url("..//images/fb.png") no-repeat 50% 50%;
 }
 
-a.c6 {
+a.instagram-ref {
     background: url("..//images/insta_gray.png") no-repeat 50% 50%;
     display: block;
     width: 100px;
     height: 100px;
 }
 
-a.c6:hover {
+a.instagram-ref:hover {
     background: url("..//images/insta.png") no-repeat 50% 50%;
 }
 
-a.c7 {
+a.youtube-ref {
     background: url("..//images/youtube_gray.png") no-repeat 50% 50%;
     display: block;
     width: 100px;
     height: 100px;
 }
 
-a.c7:hover {
+a.youtube-ref:hover {
     background: url("..//images/youtube.png") no-repeat 50% 50%;
 }

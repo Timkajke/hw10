@@ -30,20 +30,20 @@ section {
     margin-bottom: 10px;
 }
 
-.aside1 {
+.aside-left-side1 {
     float: left;
     width: 20%;
     background-color: aqua;
 }
 
-.aside2 {
+.aside-left-side2 {
     float: left;
     clear: both;
     width: 20%;
     background-color: aqua;
 }
 
-.aside3 {
+.aside-right-side {
     writing-mode: vertical-lr;
     float: right;
     width: 15%;
